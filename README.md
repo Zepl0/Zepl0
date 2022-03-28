@@ -8,7 +8,7 @@
 
 - 🔭 I’m not currently working.
 
-- 🌱 I’m currently learning **JavaScript en React.**
+- 🌱 I’m currently learning **JavaScript and React.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
