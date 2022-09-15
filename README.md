@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **andelsonprogrammer@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the English classes often.**
+- ⚡ Fun fact **I play games, souls are main ones.**
 
 ## 🚀 Languages and Tools:
 
